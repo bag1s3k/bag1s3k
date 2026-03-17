@@ -6,4 +6,4 @@
 </div>
 
 <!-- test with vercel -->
-<img src="github-readme-stats-seven-orpin-39.vercel.app/api?username=bag1s3k"/>
+[![bag1s3k's GitHub stats](https://github-readme-stats-seven-orpin-39.vercel.app/api?username=bag1s3k)](https://github.com/anuraghazra/github-readme-stats)
