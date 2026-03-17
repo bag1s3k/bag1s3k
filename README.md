@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bag1s3k&theme=dark&hide_border=true" style="height: 193px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 193px">
+  <img src="https://github-readme-stats-seven-orpin-39.vercel.app/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 193px">
 </div>
 
-<!-- test with vercel -->
-[![bag1s3k's GitHub stats](https://github-readme-stats-seven-orpin-39.vercel.app/api?username=bag1s3k)](https://github.com/anuraghazra/github-readme-stats)
+<!-- my vercel vercel -->
+<!-- https://github-readme-stats-seven-orpin-39.vercel.app/api/ -->
