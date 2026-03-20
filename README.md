@@ -5,8 +5,23 @@
   <img src="https://github-readme-stats-seven-orpin-39.vercel.app/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 193px">
 </div>
 
-<!-- my vercel vercel -->
-<!-- https://github-readme-stats-seven-orpin-39.vercel.app/api/ -->
+<!-- 
+======= MY VERCEL URL =======
+https://github-readme-stats-seven-orpin-39.vercel.app/api/ 
+-->
+
+<!--
+======= PROBLEMS =======
+- 'streak-stats' are via public hostings, often overloaded 
+
+- COLORS
+  - 'streak-stats' and 'github-readme-stats' have fixed black backround, whether user use white theme it looks strange
+  - 'readme-typing-svg' has fixed white color of text, again whether user use white theme, it looks like it doesn't work
+-->
+
+<!-- TEST -->
+![Metrics](/github-metrics.svg)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
