@@ -19,23 +19,12 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
   - 'readme-typing-svg' has fixed white color of text, again whether user use white theme, it looks like it doesn't work
 -->
 
-<table border="0">
+<table border="1">
     <tr>
-        <td><img src="metrics/languages.svg"></td>
-        <td><img src="metrics/calendar.svg"></td>
+        <td><img src="metrics/languages-most-used.svg"></td>
+        <td><img src="metrics/calendar-half-year.svg" height="220px"></td>
     </tr>
 </table>
-
-<table align="center">
-    <tr>
-        <td rowspan="2">
-            <img src="metrics/languages-recently.svg"><br>
-            <img src="metrics/languages-most-used.svg">
-        </td>
-        <td><img src="metrics/calendar.svg"></td>
-  </tr>
-</table>
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
