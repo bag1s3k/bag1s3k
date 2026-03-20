@@ -22,7 +22,6 @@ jobs:
           base: ""
 
           config_timezone: Europe/Prague
-          config_metadata: no
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -48,7 +47,6 @@ jobs:
           base: ""
 
           config_timezone: Europe/Prague
-          config_metadata: no
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
