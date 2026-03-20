@@ -20,8 +20,8 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
 -->
 
 <!-- TEST -->
-![Metrics](/github-metrics.svg)
-
+![Metrics](metrics/calendar.svg)
+![Languages](metrics/languages.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
