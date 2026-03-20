@@ -26,8 +26,6 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
     </tr>
 </table>
 
-
-
 <table align="center">
     <tr>
         <td rowspan="2">
@@ -35,18 +33,6 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
             <img src="metrics/languages-most-used.svg">
         </td>
         <td><img src="metrics/calendar.svg"></td>
-  </tr>
-</table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="45%">
-      <img src="metrics/languages-recently.svg" width="100%"><br>
-      <img src="metrics/languages-most-used.svg" width="100%">
-    </td>
-    <td valign="top" width="55%">
-      <img src="metrics/calendar.svg" width="100%">
-    </td>
   </tr>
 </table>
 
