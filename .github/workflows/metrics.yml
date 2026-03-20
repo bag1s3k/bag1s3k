@@ -13,7 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/languages-most-used.svg
@@ -40,6 +39,7 @@ jobs:
           plugin_languages_threshold: 0%
       
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/languages-recently.svg
