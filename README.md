@@ -27,6 +27,7 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
 </table>
 
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=Hi I'm bag1s3k&fontSize=80&desc=Interestring%20in%20coding%20since%202020&fontAlignY=30&descAlign=65&descAlignY=55"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake.svg">
