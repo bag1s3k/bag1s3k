@@ -26,5 +26,13 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
     </tr>
 </table>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
