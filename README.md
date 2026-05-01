@@ -30,19 +30,17 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
     <img src="https://capsule-render.vercel.app/api?type=waving&color=cobalt&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi I'm bag1s3k&fontSize=80&desc=Interestring%20in%20coding%20since%202020&fontAlignY=30&descAlign=65&descAlignY=55">
     <div style='display:flex; align-items:center; justify-content:center; gap: 10px; margin: 0 0 20px 0;'>
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="195px">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="195px"/></a>
     </div>
     <div style='display:flex; align-items:center; justify-content:center; gap: 10px; margin-bottom: 20px'>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bag1s3k&theme=dark">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bag1s3k&theme=dark&utcOffset=2">
-    <div style="margin-left: 10px">
-        <img src="https://skillicons.dev/icons?i=python,md,regex,git,github,linux&perline=3" style="margin-bottom: 10px;"><br>
+    </div>
+        <a href="https://instagram.com/bag1s3k"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
         <a href="https://discordapp.com/users/808336324272717836"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-        <a href="https://instagram.com/bag1s3k"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a><br>
+        <img src="https://skillicons.dev/icons?i=python,md,regex,git,github,linux">
         <a href="https://www.linkedin.com/in/matej-kipry"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
         <a href="mailto:jetam.mravenec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-    </div>
-    </div>
     <img src="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake-dark.svg">
 </div>
 
