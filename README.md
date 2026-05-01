@@ -27,7 +27,7 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
 </table> -->
 
 <div align="center">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=merko&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi%20I'm%20bag1s3k&fontSize=80&desc=Interesting%20in%20coding%20since%202020&fontAlignY=40&descAlign=65&descAlignY=60"> -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=merko&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi%20I'm%20bag1s3k&fontSize=80&desc=Interesting%20in%20coding%20since%202020&fontAlignY=40&descAlign=65&descAlignY=60">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height=193px">
     <img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="height=193px">
     <div>
