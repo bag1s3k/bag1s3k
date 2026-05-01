@@ -26,7 +26,7 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
     </tr>
 </table> -->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=merko&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi%20I'm%20bag1s3k&fontSize=80&desc=Interesting%20in%20coding%20since%202020&fontAlignY=40&descAlign=65&descAlignY=60">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height=193px">
     <img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="height=193px">
@@ -40,7 +40,7 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
         <a href="https://www.linkedin.com/in/matej-kipry"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
         <a href="mailto:jetam.mravenec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
     <img src="https://raw.githubusercontent.com/bag1s3k/bag1s3k/output/github-contribution-grid-snake-dark.svg">
-</div>
+</div> -->
 
 <!-- <a href="https://instagram.com/sid_kulkarni_712" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/siddheya-kulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -48,3 +48,5 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+I'm gonna use WakaTime or I might do my own stats, I hobe it's not that hard
