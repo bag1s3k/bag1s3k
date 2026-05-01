@@ -27,12 +27,12 @@ https://github-readme-stats-seven-orpin-39.vercel.app/api/
 </table> -->
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=cobalt&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi I'm bag1s3k&fontSize=80&desc=Interestring%20in%20coding%20since%202020&fontAlignY=30&descAlign=65&descAlignY=55">
-    <div style='display:flex; align-items:center; justify-content:center; gap: 10px; margin: 0 0 20px 0;'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=cobalt&animation=twinkling&fontColor=bfbfbf&height=210&section=header&text=Hi%20I'm%20bag1s3k&fontSize=80&desc=Interesting%20in%20coding%20since%202020&fontAlignY=30&descAlign=65&descAlignY=55">
+    <div>
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bag1s3k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="195px">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="195px"/></a>
+        <img src="https://streak-stats.demolab.com?user=bag1s3k&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="195px">
     </div>
-    <div style='display:flex; align-items:center; justify-content:center; gap: 10px; margin-bottom: 20px'>
+    <div>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bag1s3k&theme=dark">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bag1s3k&theme=dark&utcOffset=2">
     </div>
