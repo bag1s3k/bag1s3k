@@ -22,3 +22,26 @@ jobs:
           COMMIT_MESSAGE: "Update WakaTime metrics"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "False"
+          BADGE_STYLE: "social"
+  remove-emoji:
+    name: Remove emoji from Readme
+    needs: update-readme
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Run Python Script
+        run: uv run --with emoji remove_emoji/main.py
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "remove emojis from README [skip ci]"
+          file_pattern: "README.md"
