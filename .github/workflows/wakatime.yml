@@ -21,3 +21,4 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           COMMIT_MESSAGE: "Update WakaTime metrics"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_TIMEZONE: "False"
