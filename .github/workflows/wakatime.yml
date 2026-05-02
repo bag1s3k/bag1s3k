@@ -22,7 +22,7 @@ jobs:
           COMMIT_MESSAGE: "Update WakaTime metrics"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "False"
-          BADGE_STYLE: "social"
+          BADGE_STYLE: social
   remove-emoji:
     name: Remove emoji from Readme
     needs: update-readme
