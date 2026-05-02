@@ -18,6 +18,7 @@ with open("README.md", "r+", encoding="utf-8") as f:
     highlight_emoji = emoji.replace_emoji(text, replace=custom_emoji_replace)
     clean_text = highlight_emoji.replace("@@@EMOJI@@@ ", "") # emoji + space
     clean_text = clean_text.replace("@@@EMOJI@@@", "") # emoji without space (e.g. emojis next to each other)
+    clean_text = clean_text.replace("style=flat", "style=for-the-badge&color=white")
 
     f.write(clean_text)
 
