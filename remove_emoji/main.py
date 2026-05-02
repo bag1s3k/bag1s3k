@@ -7,7 +7,7 @@ def custom_emoji_replace(emoji_char, data_dict):
     elif emoji_char == "🦉":
         return "Owl"
 
-    return "\x00"
+    return "@@@EMOJI@@@"
 
 
 with open("README.md", "r+", encoding="utf-8") as f:
@@ -16,7 +16,7 @@ with open("README.md", "r+", encoding="utf-8") as f:
     f.truncate()
 
     highlight_emoji = emoji.replace_emoji(text, replace=custom_emoji_replace)
-    clean_text = highlight_emoji.replace("\x00 ", "")
+    clean_text = highlight_emoji.replace("@@@EMOJI@@@ ", "")
 
     f.write(clean_text)
 
