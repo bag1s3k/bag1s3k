@@ -127,4 +127,3 @@ Shell                    1 repo              █░░░░░░░░░░�
  Last Updated on 02/05/2026 17:15:21 UTC
 <!--END_SECTION:waka-->
 
-I'm gonna use WakaTime or I might do my own stats, I hobe it's not that hard
