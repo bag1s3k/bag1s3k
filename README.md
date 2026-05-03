@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.02%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.02%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-🌆 Daytime                280 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-🌃 Evening                588 commits         █████████████░░░░░░░░░░░░   51.09 % 
-🌙 Night                  98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Morning                185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Daytime                280 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Evening                588 commits         █████████████░░░░░░░░░░░░   51.09 % 
+Night                  98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
@@ -22,21 +22,21 @@ Sunday                   135 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Python                   1 hr 38 mins        █████████████░░░░░░░░░░░░   51.93 % 
 YAML                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 PHP                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
-🔥 Editors: 
+Editors: 
 PyCharm                  2 hrs 37 mins       █████████████████████░░░░   82.54 % 
 VS Code                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 
-🐱‍💻 Projects: 
+Projects: 
 bag1s3k                  2 hrs 36 mins       █████████████████████░░░░   82.18 % 
 textual_learn            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 school-prog2             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
