@@ -1,7 +1,7 @@
 import emoji
 
 
-def custom_emoji_replace(emoji_char, data_dict):
+def custom_emoji_replace(emoji_char, _: dict):
     if emoji_char == "🐤":
         return "Bird"
     elif emoji_char == "🦉":
