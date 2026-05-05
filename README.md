@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.78%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.78%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌆 Daytime                282 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌃 Evening                584 commits         █████████████░░░░░░░░░░░░   50.87 % 
-🌙 Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Daytime                282 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Evening                584 commits         █████████████░░░░░░░░░░░░   50.87 % 
+Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
@@ -22,22 +22,22 @@ Sunday                   131 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Python                   2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
 CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
-🔥 Editors: 
+Editors: 
 VS Code                  2 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.60 % 
 PyCharm                  2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.53 % 
 Antigravity              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
-🐱‍💻 Projects: 
+Projects: 
 bag1s3k                  2 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.83 % 
 den_lidsky_prav          1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 textual_learn            1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
