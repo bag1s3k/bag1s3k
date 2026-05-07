@@ -1,48 +1,48 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.79%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.85%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Daytime                282 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Evening                585 commits         █████████████░░░░░░░░░░░░   50.91 % 
-Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌞 Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🌆 Daytime                285 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌃 Evening                586 commits         █████████████░░░░░░░░░░░░   50.82 % 
+🌙 Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Tuesday                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                258 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Thursday                 230 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Friday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Tuesday                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Wednesday                262 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Thursday                 230 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Friday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Saturday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Python                   2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
-CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+💬 Programming Languages: 
+Python                   2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
+CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+HTML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
-Editors: 
-VS Code                  2 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.60 % 
-PyCharm                  2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.53 % 
-Antigravity              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+🔥 Editors: 
+VS Code                  2 hrs 58 mins       █████████████░░░░░░░░░░░░   50.05 % 
+PyCharm                  2 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+Antigravity              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
-Projects: 
-bag1s3k                  2 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.83 % 
-den_lidsky_prav          1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-textual_learn            1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-proj-prg-2               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-school-prog2             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+🐱‍💻 Projects: 
+bag1s3k                  2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+den_lidsky_prav          1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+textual_learn            1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+proj-prg-2               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+school-prog2             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 **I Mostly Code in Python** 
