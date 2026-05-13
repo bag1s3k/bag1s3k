@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.69%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.69%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-🌆 Daytime                304 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-🌃 Evening                604 commits         █████████████░░░░░░░░░░░░   50.33 % 
-🌙 Night                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Morning                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Daytime                304 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Evening                604 commits         █████████████░░░░░░░░░░░░   50.33 % 
+Night                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
@@ -22,21 +22,21 @@ Sunday                   135 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 CSS                      6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
 Python                   5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
 Other                    3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 HTML                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
-🔥 Editors: 
+Editors: 
 VS Code                  18 hrs 53 mins      ██████████████████████░░░   88.62 % 
 PyCharm                  2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
-🐱‍💻 Projects: 
+Projects: 
 den_lidsky_prav          9 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.47 % 
 color_picker             8 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
 config-files             1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
