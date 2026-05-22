@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.83%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.83%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌆 Daytime                307 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌃 Evening                615 commits         █████████████░░░░░░░░░░░░   50.25 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Morning                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Daytime                307 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Evening                615 commits         █████████████░░░░░░░░░░░░   50.25 % 
+Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
@@ -22,21 +22,21 @@ Sunday                   141 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Python                   16 hrs 50 mins      █████████████████████░░░░   85.11 % 
 Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 Makefile                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
-🔥 Editors: 
+Editors: 
 VS Code                  12 hrs 30 mins      ████████████████░░░░░░░░░   63.27 % 
 PyCharm                  7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
 
-🐱‍💻 Projects: 
+Projects: 
 color_picker             16 hrs 43 mins      █████████████████████░░░░   84.53 % 
 Practise                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
