@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.05%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.05%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Evening                627 commits         █████████████░░░░░░░░░░░░   50.08 % 
-Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌃 Evening                627 commits         █████████████░░░░░░░░░░░░   50.08 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
@@ -22,21 +22,21 @@ Sunday                   144 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
+💬 Programming Languages: 
 Python                   7 hrs 43 mins       ███████████████░░░░░░░░░░   58.04 % 
 Markdown                 4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
 TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
-Editors: 
+🔥 Editors: 
 PyCharm                  8 hrs 5 mins        ███████████████░░░░░░░░░░   60.79 % 
 VS Code                  5 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
 
-Projects: 
+🐱‍💻 Projects: 
 color_picker             6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.05 % 
 ai-mail-categorizer      3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
 imaplib_learn            1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
