@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
-Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌃 Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
@@ -22,26 +22,26 @@ Sunday                   144 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Python                   15 hrs 59 mins      █████████████████████░░░░   85.23 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Makefile                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+💬 Programming Languages: 
+Python                   15 hrs 59 mins      ██████████████████████░░░   86.74 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Makefile                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
-Editors: 
-PyCharm                  16 hrs 42 mins      ██████████████████████░░░   89.06 % 
-VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+🔥 Editors: 
+PyCharm                  16 hrs 42 mins      ███████████████████████░░   90.63 % 
+VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
-Projects: 
-ai-mail-categorizer      14 hrs 33 mins      ███████████████████░░░░░░   77.56 % 
-imaplib_learn            2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-relib                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-sqllitelib               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-color_picker             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+🐱‍💻 Projects: 
+ai-mail-categorizer      14 hrs 33 mins      ████████████████████░░░░░   78.93 % 
+imaplib_learn            2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+relib                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+sqllitelib               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+justfile                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 **I Mostly Code in Python** 
