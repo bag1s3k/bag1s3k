@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
-Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌃 Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
@@ -22,21 +22,21 @@ Sunday                   144 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
+💬 Programming Languages: 
 Python                   12 hrs 13 mins      ████████████████████████░   94.93 % 
 Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 .env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
-Editors: 
+🔥 Editors: 
 PyCharm                  11 hrs 29 mins      ██████████████████████░░░   89.12 % 
 VS Code                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
-Projects: 
+🐱‍💻 Projects: 
 ai-mail-categorizer      11 hrs 1 min        █████████████████████░░░░   85.60 % 
 relib                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 imaplib_learn            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
