@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
-Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌃 Evening                628 commits         █████████████░░░░░░░░░░░░   50.12 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
@@ -22,25 +22,20 @@ Sunday                   144 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Python                   5 hrs 22 mins       █████████████████████████   99.39 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+💬 Programming Languages: 
+Python                   1 hr 12 mins        █████████████████████████   100.00 % 
 
-Editors: 
-PyCharm                  4 hrs 51 mins       ██████████████████████░░░   89.90 % 
-VS Code                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+🔥 Editors: 
+PyCharm                  1 hr 6 mins         ███████████████████████░░   91.61 % 
+VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
-Projects: 
-ai-mail-categorizer      4 hrs 51 mins       ██████████████████████░░░   89.90 % 
-sqllitelib               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-pydantic-crash-course    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-test-folder              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🐱‍💻 Projects: 
+ai-mail-categorizer      1 hr 6 mins         ███████████████████████░░   91.61 % 
+pydantic-crash-course    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+test-folder              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 **I Mostly Code in Python** 
