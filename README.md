@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.06%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌃 Evening                629 commits         █████████████░░░░░░░░░░░░   50.16 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Evening                629 commits         █████████████░░░░░░░░░░░░   50.16 % 
+Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
@@ -22,26 +22,26 @@ Sunday                   144 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 JSON                     2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
 CSS                      2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.57 % 
 Lua                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 TOML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
-🔥 Editors: 
+Editors: 
 Vim                      6 hrs 21 mins       ███████████████████████░░   93.47 % 
 VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
-🐱‍💻 Projects: 
+Projects: 
 Unknown Project          6 hrs 21 mins       ███████████████████████░░   93.47 % 
 hypr                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 swaync                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
