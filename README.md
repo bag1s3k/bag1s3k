@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.89%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.89%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                321 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                630 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Daytime                321 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Evening                630 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
@@ -22,29 +22,29 @@ Sunday                   141 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 JSON                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Lua                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
-🔥 Editors: 
+Editors: 
 Vim                      6 hrs 52 mins       ████████████████░░░░░░░░░   63.33 % 
 PyCharm                  3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
 VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
-🐱‍💻 Projects: 
+Projects: 
 Unknown Project          5 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.64 % 
 maturita-canon           2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 dotfiles                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 pypdflib                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ai-mail-categorizer      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    10 hrs 32 mins      ████████████████████████░   97.01 % 
 Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
