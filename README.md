@@ -60,3 +60,4 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<p align="center">These stats only show activity tracked by WakaTime and may not include all work done.</p>
