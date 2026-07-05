@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.90%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.90%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-🌆 Daytime                321 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌃 Evening                634 commits         █████████████░░░░░░░░░░░░   50.08 % 
-🌙 Night                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Daytime                321 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Evening                634 commits         █████████████░░░░░░░░░░░░   50.08 % 
+Night                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
@@ -22,26 +22,26 @@ Sunday                   142 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   43.71 % 
 Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 Lua                      49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
-🔥 Editors: 
+Editors: 
 VS Code                  1 hr 59 mins        █████████████░░░░░░░░░░░░   53.61 % 
 Vim                      1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.39 % 
 
-🐱‍💻 Projects: 
+Projects: 
 Practise                 2 hrs 24 mins       ████████████████░░░░░░░░░   64.91 % 
 dotfiles                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
 Unknown Project          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
