@@ -44,7 +44,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "remove emojis from README [skip ci]"
+          commit_message: "remove emojis from README"
           file_pattern: "README.md"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
