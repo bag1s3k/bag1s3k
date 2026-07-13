@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.91%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.91%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Daytime                327 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Evening                635 commits         ████████████░░░░░░░░░░░░░   49.88 % 
-Night                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+🌞 Morning                200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌆 Daytime                327 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌃 Evening                635 commits         ████████████░░░░░░░░░░░░░   49.88 % 
+🌙 Night                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
@@ -22,30 +22,30 @@ Sunday                   143 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Python                   6 hrs 56 mins       █████████████████░░░░░░░░   66.70 % 
-Text                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-hyprlang                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+💬 Programming Languages: 
+Python                   4 hrs 20 mins       ███████████████░░░░░░░░░░   58.45 % 
+Text                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
-Editors: 
-PyCharm                  6 hrs 59 mins       █████████████████░░░░░░░░   67.11 % 
-VS Code                  2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Vim                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🔥 Editors: 
+PyCharm                  4 hrs 20 mins       ███████████████░░░░░░░░░░   58.45 % 
+VS Code                  2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+Vim                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
-Projects: 
-Practise                 6 hrs 59 mins       █████████████████░░░░░░░░   67.11 % 
-internship               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-cron-workflows           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-dotfiles                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+🐱‍💻 Projects: 
+Practise                 4 hrs 20 mins       ███████████████░░░░░░░░░░   58.45 % 
+internship               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+cron-workflows           1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+system-config            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
-Operating System: 
-Linux                    10 hrs 25 mins      █████████████████████████   100.00 % 
+💻 Operating System: 
+Linux                    7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
