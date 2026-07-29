@@ -24,6 +24,7 @@ jobs:
           SHOW_TIMEZONE: "False"
           BADGE_STYLE: social
           SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
 
   remove-emoji:
     name: Remove emoji from Readme
