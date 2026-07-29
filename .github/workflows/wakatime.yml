@@ -2,8 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -22,6 +23,8 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "False"
           BADGE_STYLE: social
+          SHOW_AI_CODING: "False"
+
   remove-emoji:
     name: Remove emoji from Readme
     needs: update-readme
