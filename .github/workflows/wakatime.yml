@@ -22,7 +22,7 @@ jobs:
           COMMIT_MESSAGE: "Update WakaTime metrics"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "False"
-          BADGE_STYLE: social
+          BADGE_STYLE: for-the-badge
           SHOW_AI_CODING: "False"
           SHOW_AI_CODE_TIME: "False"
 
