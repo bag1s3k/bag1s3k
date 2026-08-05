@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.28%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.28%20thousand%20lines%20of%20code-blue?style=for-the-badge)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Daytime                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Evening                652 commits         ████████████░░░░░░░░░░░░░   49.17 % 
-Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+🌞 Morning                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌆 Daytime                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌃 Evening                652 commits         ████████████░░░░░░░░░░░░░   49.17 % 
+🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
@@ -22,31 +22,31 @@ Sunday                   148 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Python                   3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-TOML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Lua                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+💬 Programming Languages: 
+Markdown                 5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
+Python                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+TOML                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Lua                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
-Editors: 
-Neovim                   9 hrs 2 mins        ████████████████░░░░░░░░░   65.81 % 
-Obsidian                 2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Vim                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+🔥 Editors: 
+Neovim                   6 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.44 % 
+Obsidian                 4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+VS Code                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Vim                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
-Projects: 
-dotfiles                 4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-my_notes                 2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Practise                 2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-fastapilib               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🐱‍💻 Projects: 
+dotfiles                 4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+my_notes                 4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+ML-For-Beginners         1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+bag1s3k                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Practise                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
-Operating System: 
-Linux                    13 hrs 44 mins      █████████████████████████   100.00 % 
+💻 Operating System: 
+Linux                    14 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
