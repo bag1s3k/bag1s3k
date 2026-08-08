@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.36%20thousand%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.36%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌃 Evening                656 commits         ████████████░░░░░░░░░░░░░   49.32 % 
-🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Morning                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Daytime                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Evening                656 commits         ████████████░░░░░░░░░░░░░   49.32 % 
+Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
@@ -22,30 +22,30 @@ Sunday                   148 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Markdown                 4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
 Python                   3 hrs               ████████░░░░░░░░░░░░░░░░░   31.00 % 
 JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
-🔥 Editors: 
+Editors: 
 Obsidian                 3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
 VS Code                  3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
 Neovim                   2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
 Vim                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
-🐱‍💻 Projects: 
+Projects: 
 my_notes                 3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
 ML-For-Beginners         3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.10 % 
 dotfiles                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
 bag1s3k                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 manage-apple-music       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    9 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
