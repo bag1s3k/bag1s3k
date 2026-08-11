@@ -1,51 +1,51 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.36%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.06%20thousand%20lines%20of%20code-blue?style=for-the-badge)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Daytime                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Evening                656 commits         ████████████░░░░░░░░░░░░░   49.32 % 
-Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌞 Morning                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌆 Daytime                366 commits         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+🌃 Evening                674 commits         ████████████░░░░░░░░░░░░░   48.73 % 
+🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                276 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Thursday                 268 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Saturday                 141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Monday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Wednesday                278 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Thursday                 281 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Friday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
+💬 Programming Languages: 
 Markdown                 4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
 Python                   3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.94 % 
 JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 Lua                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
-Editors: 
+🔥 Editors: 
 Neovim                   3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
 Obsidian                 3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
 VS Code                  3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.55 % 
 Vim                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
-Projects: 
+🐱‍💻 Projects: 
 ML-For-Beginners         3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.01 % 
 my_notes                 3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
 dotfiles                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
 bag1s3k                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 manage-apple-music       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
-Operating System: 
+💻 Operating System: 
 Linux                    10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
