@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.35%20thousand%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.35%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
 **I Mostly Code in Python** 
 
