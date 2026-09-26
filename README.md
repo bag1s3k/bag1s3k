@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.86%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.86%20thousand%20lines%20of%20code-blue?style=for-the-badge)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Evening                835 commits         ████████████░░░░░░░░░░░░░   48.97 % 
-Night                  192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+🌞 Morning                259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌃 Evening                835 commits         ████████████░░░░░░░░░░░░░   48.97 % 
+🌙 Night                  192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 ```
-**I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
@@ -22,32 +22,32 @@ Sunday                   190 commits         ███░░░░░░░░�
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Perl                     13 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
-Markdown                 11 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   35.73 % 
-Python                   2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Lua                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+💬 Programming Languages: 
+Perl                     14 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.72 % 
+Markdown                 9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Python                   2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Lua                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
-Editors: 
-Neovim                   17 hrs              █████████████░░░░░░░░░░░░   53.88 % 
-Obsidian                 10 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Codex Vscode             2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Vim                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Jupyterlab               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+🔥 Editors: 
+Neovim                   18 hrs 22 mins      ███████████████░░░░░░░░░░   59.57 % 
+Obsidian                 8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Codex Vscode             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Vim                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Jupyterlab               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
-Projects: 
-Unknown Project          14 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.11 % 
-my_notes                 11 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.81 % 
-polarslib                2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-dotfiles                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-zk                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🐱‍💻 Projects: 
+Unknown Project          15 hrs 38 mins      █████████████░░░░░░░░░░░░   50.71 % 
+my_notes                 9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+polarslib                2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+dotfiles                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+zk                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
-Operating System: 
-Linux                    31 hrs 33 mins      █████████████████████████   100.00 % 
+💻 Operating System: 
+Linux                    30 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
