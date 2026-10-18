@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.87%20thousand%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.87%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
 
-**I'm a Night 🦉** 
+**I'm a Night Owl** 
 
 ```text
-🌞 Morning                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-🌆 Daytime                494 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-🌃 Evening                1062 commits        ████████████░░░░░░░░░░░░░   49.88 % 
-🌙 Night                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Morning                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Daytime                494 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Evening                1062 commits        ████████████░░░░░░░░░░░░░   49.88 % 
+Night                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+**I'm Most Productive on Thursday** 
 
 ```text
 Monday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
@@ -22,30 +22,30 @@ Sunday                   256 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 Perl                     7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
 Python                   5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 C                        4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 Lua                      2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
-🔥 Editors: 
+Editors: 
 Neovim                   28 hrs 4 mins       ████████████████████░░░░░   80.09 % 
 Codex Vscode             4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Obsidian                 2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 Vim                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
-🐱‍💻 Projects: 
+Projects: 
 dotfiles                 19 hrs 29 mins      ██████████████░░░░░░░░░░░   55.62 % 
 work                     5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 is4u-cedr                3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Unknown Project          2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 my_notes                 2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
-💻 Operating System: 
+Operating System: 
 Linux                    35 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
