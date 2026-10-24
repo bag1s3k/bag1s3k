@@ -1,53 +1,53 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=for-the-badge&color=white)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.21%20thousand%20lines%20of%20code-blue?style=for-the-badge)
 
-**I'm a Night Owl** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Daytime                499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Evening                1082 commits        █████████████░░░░░░░░░░░░   50.23 % 
-Night                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌞 Morning                326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+🌆 Daytime                499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌃 Evening                1084 commits        █████████████░░░░░░░░░░░░   50.28 % 
+🌙 Night                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
-**I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Wednesday                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 413 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Friday                   304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Monday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Thursday                 413 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Friday                   306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Programming Languages: 
-Perl                     7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Markdown                 2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-C                        2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Bash                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+💬 Programming Languages: 
+Perl                     8 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
+Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+C                        2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Lua                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
-Editors: 
-Neovim                   20 hrs 39 mins      ████████████████████░░░░░   80.54 % 
-Obsidian                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Codex Vscode             2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Vim                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🔥 Editors: 
+Neovim                   18 hrs 7 mins       ███████████████████░░░░░░   76.95 % 
+Obsidian                 3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Codex Vscode             1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Vim                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
-Projects: 
-dotfiles                 11 hrs 28 mins      ███████████░░░░░░░░░░░░░░   44.76 % 
-work                     7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-school-prog1             2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-my_notes                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+🐱‍💻 Projects: 
+work                     8 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
+dotfiles                 6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+my_notes                 4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+school-prog1             2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Unknown Project          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
-Operating System: 
-Linux                    25 hrs 39 mins      █████████████████████████   100.00 % 
+💻 Operating System: 
+Linux                    23 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
